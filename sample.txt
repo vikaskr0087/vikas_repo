@@ -1,1 +1,1 @@
-This is initial text of my file
+This is updated from dev branch
